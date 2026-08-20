@@ -1,4 +1,4 @@
-//FCFS Method
+//FCFS Method using same arrival time as 0
 #include<iostream>
 using namespace std;
 int main()
